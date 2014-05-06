@@ -7,3 +7,7 @@ You can find a live preview of this [here](http://FGKServers.com/gabe) some time
 Don't forget to check the JS Console! Very funny shit there. 
 
 Inspired by http://gaben.tv/ & gabegaming.com
+
+NOTICE
+=========================
+While there is a master branch, ALL edits will be done on the gh-pages branch. BITCH!

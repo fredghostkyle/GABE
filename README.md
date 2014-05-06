@@ -1,3 +1,8 @@
+NOTICE
+=========================
+NO Edits or changes will be made on this branch. use the 'gh-pages' branch! 
+
+
 PRAISE TO THE GABEN
 =========================
 This is baes off of [defaultnamehere](https://github.com/defaultnamehere/defaultnamehere.github.io)'s Repo for this shit. 
